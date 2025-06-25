@@ -1,4 +1,4 @@
 # demo
 Trial repository
 <br>
-Author - Snehal Mali
+Author - Snehal Dhondiram  Mali
